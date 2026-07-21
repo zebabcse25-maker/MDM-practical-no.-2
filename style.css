@@ -1,1 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: light rgb(0, 145, 255);
+    margin: 0;
+}
+h1{
+    text-align: center;
+    padding: 10px
+}
+nav{
+
+    margin: 10;
+    padding: 10px;
+}
+section{
+    background-color: blueviolet;
+    margin: 20px;
+    padding: 10px;
+    
+}
 
